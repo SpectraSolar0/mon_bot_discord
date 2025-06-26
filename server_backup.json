@@ -1,0 +1,88 @@
+{
+  "channels": [
+    {
+      "id": "1371044239894646814",
+      "name": "📜┃règlement",
+      "type": 0,
+      "parentId": null,
+      "position": 1
+    },
+    {
+      "id": "1371044759715446884",
+      "name": "moderator-only",
+      "type": 0,
+      "parentId": null,
+      "position": 0
+    },
+    {
+      "id": "1387743727551778837",
+      "name": "🎯┃Information",
+      "type": 4,
+      "parentId": null,
+      "position": 0
+    },
+    {
+      "id": "1387743728570994759",
+      "name": "Salons vocaux",
+      "type": 4,
+      "parentId": null,
+      "position": 1
+    },
+    {
+      "id": "1387743730018160791",
+      "name": "📢┃annonces",
+      "type": 0,
+      "parentId": "1387743727551778837",
+      "position": 0
+    },
+    {
+      "id": "1387743730995429388",
+      "name": "🛬┃arrivée",
+      "type": 0,
+      "parentId": null,
+      "position": 2
+    },
+    {
+      "id": "1387743732367102065",
+      "name": "🎈┃rôle",
+      "type": 0,
+      "parentId": "1387743727551778837",
+      "position": 1
+    },
+    {
+      "id": "1387743733738635386",
+      "name": "📱┃réseaux",
+      "type": 0,
+      "parentId": "1387743727551778837",
+      "position": 2
+    },
+    {
+      "id": "1387743734841737296",
+      "name": "Lounge",
+      "type": 2,
+      "parentId": "1387743728570994759",
+      "position": 0
+    },
+    {
+      "id": "1387743736074600539",
+      "name": "Salle de réunion",
+      "type": 2,
+      "parentId": "1387743728570994759",
+      "position": 1
+    },
+    {
+      "id": "1387743736867459073",
+      "name": "📜┃règlement",
+      "type": 0,
+      "parentId": "1387743727551778837",
+      "position": 3
+    },
+    {
+      "id": "1387743738117230663",
+      "name": "moderator-only",
+      "type": 0,
+      "parentId": null,
+      "position": 3
+    }
+  ]
+}
